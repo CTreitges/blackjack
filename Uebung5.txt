@@ -1,0 +1,37 @@
+Aufgabe 1:
+
+Croupier:
+Methoden =
+-Kartensets erstellen
+-Karten verteilen
+-Sieger ermitteln
+-Statisik abfragen
+-Handkarte speichern
+-Spieler rauswerfen?
+-spielen
+
+Spieler:
+Methoden =
+-Hit,Split,Surrender, etc.
+-variable für Startkapital
+-aktuelle Karten speichern
+-Wetteinsatz abgeben
+-Gewinn erhalten
+-optimalen Wetteinsatz berechenn
+-Infos vom Kartenzähler erhalten
+
+Kartenzähler:
+Methoden =
+-Spieler Empfehlungen geben
+-effektives Kartenzählen
+-Statistiken updaten und weitergeben
+
+Aufgabe 2:
+Damit das ganze funktioniert müssen alle sich auf ein einheitliches Kommunikationsformat einigen.
+Außerdem muss zum Beispiel der Erhalt von Nachrichten sowie Löscnung von Spielern verifiziert werden.
+
+Aufgabe 4:
+Soweit funktioniert das ausführen unter mehreren Programmen, allerdings bedarf es teilweise noch bearbeitung der Methoden Namen
+um eine vollständige Funktion zu gewährleisten.
+Dies liegt daran das man sich nicht im vorhinein auf ein Kommunikationsformat geeinigt hat.
+
